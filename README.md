@@ -18,10 +18,13 @@ Each time you make changes to your theme and want to publish those changes, you 
 The Readme will be displayed as the main page in the Visual Studio Extension store.
 
 *Optionally* You may want to add an icon (logo), and repository. 
+
+```json
 "icon": "images/logoUrl.png",
 "repository": {
     "type": "git",
     "url": "Replace me with URL"
-},
+}
+```
 
 **Enjoy!**
