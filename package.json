@@ -1,16 +1,11 @@
 {
-    "name": "feminine-code",
-    "displayName": "Feminine Color Theme",
-    "description": "A feminine Color Theme. Because you can be female, love pink, AND still be an awesome programmer.",
+    "name": "Sample_theme",
+    "displayName": "Display Name",
+    "description": "Description of your color theme",
     "version": "0.0.3",
-    "icon": "images/logo1.png",
-    "publisher":"jjoocceeee",
+    "publisher":"Your publisher name",
     "engines": {
         "vscode": "^1.44.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jjoocceeee/visual-studio-code-color-theme"
     },
     "categories": [
         "Themes"
